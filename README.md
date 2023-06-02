@@ -3,16 +3,19 @@ This Django backend provides functionality to manage restaurants and menus. It i
 
 Installation
 Clone the repository:
-    cd ~
+
     git clone github.com:johndoe/projectile.git project
 
 Install the required dependencies:
-    cd ~
+
     pip install -r requirements.txt
 
+Run the database migrations:
 
-**Cloning your fork**
+    python manage.py migrate
 
-    git clone github.com:johndoe/projectile.git project
+Create a superuser (admin) account:
+
+    python manage.py createsuperuser
 
 
