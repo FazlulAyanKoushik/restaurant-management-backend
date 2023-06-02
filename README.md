@@ -13,7 +13,6 @@ Install the required dependencies:
 
 **Cloning your fork**
 
-    cd ~
     git clone github.com:johndoe/projectile.git project
 
 
