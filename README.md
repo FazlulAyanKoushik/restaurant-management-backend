@@ -11,3 +11,9 @@ Install the required dependencies:
     pip install -r requirements.txt
 
 
+**Cloning your fork**
+
+    cd ~
+    git clone github.com:johndoe/projectile.git project
+
+
