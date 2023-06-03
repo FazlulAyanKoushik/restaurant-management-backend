@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     # Apps
     "accounts.apps.AccountsConfig",
     "core.apps.CoreConfig",
+    "restaurant.apps.RestaurantConfig",
+    "menu.apps.MenuConfig",
 ]
 
 
